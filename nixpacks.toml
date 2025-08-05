@@ -1,0 +1,18 @@
+[phases.setup]
+nixPkgs = ["python311Full", "python311Packages.pip", "postgresql", "tesseract", "poppler_utils"]
+
+[phases.install]
+cmds = [
+  "python -m venv /opt/venv",
+  "/opt/venv/bin/python -m pip install --upgrade pip",
+  "/opt/venv/bin/pip install --no-cache-dir -r requirements.txt"
+]
+
+[phases.build]
+cmds = [
+  "echo 'Build completed'",
+  "python -c 'import fitz; print(\"PyMuPDF imported successfully\")'"
+]
+
+[start]
+cmd = "uvicorn app:app --host 0.0.0.0 --port $PORT --workers 1 --limit-max-requests 1000 --limit-concurrency 10" 

@@ -1,0 +1,270 @@
+{
+  "summary": {
+    "total_questions": 16,
+    "correct_answers": 8,
+    "overall_accuracy": 50.0,
+    "domains": {
+      "Indian Constitution": {
+        "total": 5,
+        "correct": 3
+      },
+      "Insurance Policy": {
+        "total": 5,
+        "correct": 3
+      },
+      "Vehicle Manual": {
+        "total": 3,
+        "correct": 0
+      },
+      "Newton's Principia": {
+        "total": 3,
+        "correct": 2
+      }
+    }
+  },
+  "detailed_results": [
+    {
+      "domain": "Indian Constitution",
+      "question": "What is the official name of India according to Article 1 of the Constitution?",
+      "answer": "The official name of India according to Article 1 of the Constitution is \"The Republic of India\".\n\nThis answer is based on the following information found in the provided document:\n\nArticle 1 of the Constitution states: \"India, that is Bharat, shall be a Union of States.\"\n\nHowever, it is important to note that the official name of India is mentioned in the Preamble to the Constitution, which states: \"We, the People of India, having solemnly resolved to constitute India into a Sovereign Socialist Secular Democratic Republic and to secure to all its citizens.\"\n\nTherefore, the official name of India is \"The Republic of India\", as mentioned in the Preamble.",
+      "is_correct": true,
+      "score": 0.6,
+      "reason": "Partial match with expected content",
+      "expected_keywords": [
+        "india",
+        "bharat",
+        "union",
+        "states"
+      ]
+    },
+    {
+      "domain": "Indian Constitution",
+      "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+      "answer": "Article 14 of the Constitution of India guarantees equality before the law and equal protection of laws to all persons. It states:\n\n\"14. Equality before law.—The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.\"\n\nThis article ensures that every individual is treated equally and has equal access to the law, without any discrimination based on religion, race, caste, sex, or place of birth.",
+      "is_correct": true,
+      "score": 0.6,
+      "reason": "Partial match with expected content",
+      "expected_keywords": [
+        "article",
+        "14",
+        "equality",
+        "law",
+        "protection"
+      ]
+    },
+    {
+      "domain": "Indian Constitution",
+      "question": "What is abolished by Article 17 of the Constitution?",
+      "answer": "Based on the provided document content, Article 371F is inserted by the Constitution (Thirty-sixth Amendment) Act, 1975, section 3, and it is effective from April 26, 1975.\n\nAdditionally, Article 330A provides for the reservation of seats for women in the House of the People, and Article 332 provides for the reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States.\n\nArticle 371B provides for special provisions with respect to the State of Assam, including the constitution and functions of a committee of the Legislative Assembly of the State.\n\nArticle 378A provides for the special provision as to the duration of the Andhra Pradesh Legislative Assembly.\n\nArticle 387 is omitted by the Constitution (Seventh Amendment) Act, 1956, section 29 and Schedule.\n\nArticle 390 is inserted by the Constitution (Eighty-fifth Amendment) Act, 2001, section 2, and it is effective from June 17, 1995.\n\nArticle 17 is not mentioned in the provided document content, so it is not possible to determine what is abolished by Article 17 of the Constitution.",
+      "is_correct": false,
+      "score": 0.18,
+      "reason": "Contains negative phrasing",
+      "expected_keywords": [
+        "article",
+        "17",
+        "untouchability",
+        "abolished",
+        "forbids"
+      ]
+    },
+    {
+      "domain": "Indian Constitution",
+      "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+      "answer": "Based on the provided document content, I will answer the question:\n\nWhat are the key ideals mentioned in the Preamble of the Constitution of India?\n\nThe Preamble of the Constitution of India is not mentioned in the provided document content. The document appears to be a collection of articles and clauses related to the Constitution of India, but it does not include the Preamble.\n\nHowever, if you would like me to search for key ideals mentioned in the Constitution of India, I can do so. The Preamble of the Constitution of India is a brief introductory statement that sets out the fundamental purposes and principles of the Constitution. It is not explicitly mentioned in the provided document content, but I can search for key ideals mentioned in the Preamble.\n\nThe Preamble of the Constitution of India states:\n\n\"WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens JUSTICE, SOCIAL, ECONOMIC AND POLITICAL; LIBERTY OF THOUGHT, EXPRESSSION, BELIEF, FAITH AND WORSHIP; EQUALITY OF STATUS AND OF OPPORTUNITY; and to promote among them all FRATERNITY assuring the dignity and the unity of the Nation.\"\n\nThe key ideals mentioned in the Preamble include:\n\n1. Sovereignty: The Constitution establishes India as a sovereign nation.\n2. Socialism: The Constitution aims to establish a socialist society.\n3. Secularism: The Constitution ensures the separation of religion and state.\n4. Democracy: The Constitution establishes a democratic system of government.\n5. Justice: The Constitution aims to secure social, economic, and political justice to all citizens.\n6. Liberty: The Constitution guarantees the freedom of thought, expression, belief, faith, and worship.\n7. Equality: The Constitution ensures equality of status and opportunity to all citizens.\n8. Fraternity: The Constitution promotes fraternity among all citizens, ensuring the dignity and",
+      "is_correct": false,
+      "score": 0.3,
+      "reason": "Contains negative phrasing",
+      "expected_keywords": [
+        "sovereign",
+        "socialist",
+        "secular",
+        "democratic",
+        "republic",
+        "justice",
+        "liberty",
+        "equality",
+        "fraternity"
+      ]
+    },
+    {
+      "domain": "Indian Constitution",
+      "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+      "answer": "Under Article 3 of the Constitution of India, Parliament has the power to form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State. Additionally, Parliament can also alter the boundaries, area, or name of an existing State.\n\nArticle 3(1) states that Parliament may by law form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State.\n\nArticle 3(3) states that Parliament may by law alter the boundaries of any State.\n\nArticle 3(4) states that Parliament may by law alter the name of any State.\n\nArticle 3(5) states that Parliament may by law unite two or more autonomous districts or parts thereof so as to form one autonomous district.\n\nArticle 3(6) states that Parliament may by law define the boundaries of any autonomous district.\n\nThese provisions empower Parliament to make changes to the territorial boundaries, area, or name of an existing State, as well as to form new States by uniting territories or parts of States.",
+      "is_correct": true,
+      "score": 0.8,
+      "reason": "Good match with expected content",
+      "expected_keywords": [
+        "article",
+        "3",
+        "parliament",
+        "alter",
+        "boundaries",
+        "state"
+      ]
+    },
+    {
+      "domain": "Insurance Policy",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "answer": "Based on the provided document content, the answer to the question \"When will my root canal claim of Rs 25,000 be settled?\" is not explicitly mentioned. However, I found some relevant information that might be helpful.\n\nThe document mentions that the company will pay the policyholder for any benefit under the policy, and any payment made to the policyholder or his/her nominees shall be a valid discharge towards payment of claim by the company to the extent of the amount for the particular claim (Section 10.5).\n\nAdditionally, the document states that the company will pay the policyholder for any claim under reimbursement, and in the event of death of the policyholder, the company will pay the nominee (Section 10.8).\n\nHowever, there is no specific mention of root canal treatment or a claim of Rs 25,000. It is possible that this treatment is covered under the policy, but the specific details and procedures for making a claim are not provided in the document.\n\nTo determine the exact process and timeline for settling a root canal claim, I would recommend contacting the National Insurance Company Limited or reviewing the policy schedule and terms and conditions for more information.\n\nHere is the relevant text from the document:\n\n* Section 10.5: \"Any payment to the policyholder, Insured Person or his/ her nominees or his/ her legal representative or assignee or to the Hospital, as the case may be, for any benefit under the Policy shall be a valid discharge towards payment of claim by the Company to the extent of the amount for the particular claim.\"\n* Section 10.8: \"In the event of death of the policyholder, the Company will pay the nominee (as named in the Policy Schedule/Policy Certificate/Endorsement (if any)) and in case there is no subsisting nominee, to the legal heirs or legal representatives of the Policyholder whose discharge shall be treated as full and final discharge of its liability under the Policy.\"\n\nPlease note that this answer is",
+      "is_correct": false,
+      "score": 0.24,
+      "reason": "Low match with expected content",
+      "expected_keywords": [
+        "dental",
+        "root",
+        "canal",
+        "excluded",
+        "accident"
+      ]
+    },
+    {
+      "domain": "Insurance Policy",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "answer": "Based on the provided document content, I have searched comprehensively for any information related to IVF (In Vitro Fertilization) treatment.\n\nAccording to Section 7.14, \"Sterility and Infertility (Code – Excl 17)\", expenses related to sterility and infertility, including assisted reproductive technologies such as IVF, are excluded from coverage.\n\nHowever, Section 10.13, \"Migration\", mentions that if an insured person migrates to an alternative health insurance product offered by the Company, they will get all the accrued continuity benefits for credits gained to the extent of the specific waiting periods, waiting period for pre-existing diseases, and Moratorium period of the Insured Person. This implies that IVF treatment may be covered under the new policy, but only if the insured person has accrued continuity benefits.\n\nUnfortunately, the provided document does not explicitly state whether IVF treatment is covered or not. However, based on the exclusion mentioned in Section 7.14, it appears that IVF treatment is not covered under the current policy.\n\nTo confirm coverage, I would recommend consulting the policy documents or contacting the insurance provider directly.\n\nAnswer: IVF treatment is not explicitly covered under the current policy, but it may be covered under a new policy if the insured person migrates and has accrued continuity benefits.",
+      "is_correct": true,
+      "score": 0.6,
+      "reason": "Partial match with expected content",
+      "expected_keywords": [
+        "ivf",
+        "infertility",
+        "excluded",
+        "not",
+        "covered"
+      ]
+    },
+    {
+      "domain": "Insurance Policy",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "answer": "Based on the provided document content, I will answer the question:\n\nQuestion: I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?\n\nAnswer: No, the Company shall indemnify medical expenses incurred for treatment of Cataract, subject to a limit of 25% of Sum Insured or Rs. 40,000/-, whichever is lower, per eye, under one policy year (Article 4.3).\n\nAccording to the policy, the maximum limit for Cataract Treatment is Rs. 40,000/- per eye, which is lower than the actual treatment cost of Rs. 100,000. Therefore, the Company will not settle the full Rs. 100,000, but only up to the maximum limit of Rs. 40,000/- per eye.\n\nPlease note that this answer is based solely on the provided document content and does not consider any external information or assumptions.",
+      "is_correct": true,
+      "score": 0.5,
+      "reason": "Partial match with expected content",
+      "expected_keywords": [
+        "cataract",
+        "25%",
+        "40000",
+        "40,000",
+        "eye",
+        "limit"
+      ]
+    },
+    {
+      "domain": "Insurance Policy",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "answer": "Based on the provided document, the list of documents to be uploaded for hospitalization for heart surgery is not explicitly mentioned. However, the document does provide a list of documents required for reimbursement of claims, which may be relevant for hospitalization for heart surgery. These documents include:\n\n* Duly completed claim form\n* Photo Identity proof of the patient\n* Medical practitioner's prescription advising admission\n* Original bills with itemized break-up\n* Payment receipts\n* Discharge summary including complete medical history of the patient along with other details\n* Investigation/Diagnostic test reports etc. supported by the prescription from attending medical practitioner\n* OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases)\n* Sticker/Invoice of the Implants, wherever applicable\n* MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable\n* NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque\n* KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines\n* Legal heir/succession certificate, wherever applicable\n* Any other relevant document required by Company/TPA for assessment of the claim.\n\nPlease note that this list may not be exhaustive, and additional documents may be required depending on the specific circumstances of the hospitalization.",
+      "is_correct": true,
+      "score": 0.6,
+      "reason": "Partial match with expected content",
+      "expected_keywords": [
+        "claim",
+        "form",
+        "bills",
+        "discharge",
+        "prescription",
+        "identity"
+      ]
+    },
+    {
+      "domain": "Insurance Policy",
+      "question": "An insured person is hospitalized for 22 hours for a minimally invasive surgery—how is coverage determined?",
+      "answer": "Based on the provided document content, the coverage determination for an insured person hospitalized for 22 hours for a minimally invasive surgery is as follows:\n\nAccording to Article 2.3 of the Arogya Sanjeevani Policy - National, \"If during the Policy Period one or more Insured Person (s) is required to be hospitalized for treatment of an Illness or Injury at a Hospital/Day Care Center, following Medical Advice of a duly qualified Medical Practitioner, the Company shall indemnify Medically Necessary, expenses towards the Coverage mentioned hereunder.\"\n\nThe policy defines \"Hospitalization\" as \"admission in a Hospital or Day Care Center for treatment of an Illness or Injury\" (Article 3.35). Since the insured person was hospitalized for 22 hours, this meets the definition of hospitalization.\n\nThe policy also defines \"Minimally Invasive Surgery\" as \"a surgical procedure that is performed through a small incision or using a minimally invasive technique\" (Article 3.54). Since the surgery was minimally invasive, it is covered under the policy.\n\nThe policy does not specify a specific hospital stay duration for coverage, but it does mention that the company shall indemnify medically necessary expenses towards coverage mentioned hereunder. Therefore, the coverage determination for this scenario is that the company shall indemnify the insured person's expenses for the minimally invasive surgery, including hospitalization costs, up to the sum insured and subject to the terms and conditions of the policy.\n\nPlease note that this answer is based solely on the provided document content and does not consider any external information or assumptions.",
+      "is_correct": false,
+      "score": 0.48,
+      "reason": "Low match with expected content",
+      "expected_keywords": [
+        "day",
+        "care",
+        "24",
+        "hours",
+        "procedure"
+      ]
+    },
+    {
+      "domain": "Vehicle Manual",
+      "question": "What is the spark plug gap specification?",
+      "answer": "Based on the provided document content, I did not find any information related to spark plug gap specification. The document appears to be an error message indicating that public access is not permitted on a storage account, and it does not contain any relevant information about spark plugs or their specifications.\n\nAs per the critical instructions, I have thoroughly searched the entire content for any information related to the question, but unfortunately, I did not find any relevant information. Therefore, I will not provide a direct answer to the question.\n\nHowever, I would like to note that the provided document does not contain any information about spark plugs or their specifications, and it seems to be an error message rather than a technical manual or document related to vehicle maintenance. If you have any additional documents or information, I would be happy to assist you in finding the answer to your question.",
+      "is_correct": false,
+      "score": 0.3,
+      "reason": "Low match with expected content",
+      "expected_keywords": [
+        "spark",
+        "plug",
+        "gap",
+        "0.6",
+        "0.7",
+        "mm"
+      ]
+    },
+    {
+      "domain": "Vehicle Manual",
+      "question": "Does this bike come in a tubeless tyre version?",
+      "answer": "Based on the provided document content, I searched comprehensively for any information related to the question \"Does this bike come in a tubeless tyre version?\"\n\nUnfortunately, the provided document content does not contain any information about the bike's specifications, including whether it comes with a tubeless tyre version. The content appears to be an error message related to a document download issue, and it does not provide any relevant information about the bike.\n\nAs per the critical instructions, I did not find any direct mentions, related terms, synonyms, or contextual references that would indicate the bike's tyre type. I also did not find any numbered items, specific values, specifications, limits, or conditions that would provide information about the bike's tyre type.\n\nSince the provided document content does not contain any relevant information, I will not provide a detailed answer. However, I can confirm that the document does not provide any information about the bike's tyre type, including whether it comes with a tubeless tyre version.",
+      "is_correct": false,
+      "score": 0.3,
+      "reason": "Low match with expected content",
+      "expected_keywords": [
+        "tubeless",
+        "tyre",
+        "yes",
+        "standard"
+      ]
+    },
+    {
+      "domain": "Vehicle Manual",
+      "question": "Is it compulsory to have a disc brake?",
+      "answer": "Based on the provided document content, the answer to the question \"Is it compulsory to have a disc brake?\" is:\n\n**No, it is not compulsory to have a disc brake.**\n\nThe document content does not mention disc brakes or any related information. The document appears to be an error message indicating that a file download failed due to public access restrictions. There is no relevant information provided regarding disc brakes or any other vehicle-related specifications.\n\nSince the document does not contain any information related to the question, I have thoroughly searched the entire content and found no relevant information whatsoever.",
+      "is_correct": false,
+      "score": 0.19999999999999998,
+      "reason": "Contains negative phrasing",
+      "expected_keywords": [
+        "disc",
+        "brake",
+        "not",
+        "compulsory",
+        "drum",
+        "variant"
+      ]
+    },
+    {
+      "domain": "Newton's Principia",
+      "question": "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+      "answer": "According to the provided document, Newton defines \"quantity of motion\" as the product of the mass of an object and its velocity. He states this in the following passage:\n\n\"The quantity of motion is the product of the mass of the body and its velocity; and this quantity is always proportional to the force impressed, and is made up of the parts of the force, which are proportional to the parts of the velocity.\" (Page 89, Axioms, or Laws of Motion, Law I)\n\nNewton distinguishes \"quantity of motion\" from \"force\" by stating that force is the cause of the change in motion, while quantity of motion is the measure of the motion itself. He writes:\n\n\"The force is the cause of the change of motion, and the quantity of motion is the measure of the motion.\" (Page 89, Axioms, or Laws of Motion, Law I)\n\nIn other words, force is the driving force behind the change in motion, while quantity of motion is the result of that force.",
+      "is_correct": true,
+      "score": 0.6333333333333333,
+      "reason": "Partial match with expected content",
+      "expected_keywords": [
+        "quantity",
+        "motion",
+        "mass",
+        "velocity",
+        "force",
+        "action"
+      ]
+    },
+    {
+      "domain": "Newton's Principia",
+      "question": "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+      "answer": "According to Newton, the three laws of motion are:\n\n**Law 1: The Law of Inertia**\n\"Every body perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it.\" (Page 89)\n\nThis law states that an object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force.\n\n**Law 2: The Law of Acceleration**\n\"The alteration of motion is ever proportional to the motive force impress'd; and is made in the direction of the right line in which that force is impress'd.\" (Page 89)\n\nThis law states that the force applied to an object is proportional to the acceleration it produces, and that the force is always applied in the direction of the motion.\n\n**Law 3: The Law of Action and Reaction**\n\"To every action there is always opposed an equal reaction: or the mutual actions of two bodies upon each other are always equal, and directed to contrary parts.\" (Page 90)\n\nThis law states that for every action, there is an equal and opposite reaction. This means that when one object exerts a force on another, the second object will exert an equal and opposite force on the first.\n\nIn celestial mechanics, these laws apply in the following ways:\n\n* The Law of Inertia explains why planets and other celestial bodies maintain their orbits unless acted upon by external forces, such as the gravitational attraction of other bodies.\n* The Law of Acceleration explains how the gravitational force of one body affects the motion of another body, such as the way the Earth's gravity affects the motion of a thrown ball.\n* The Law of Action and Reaction explains how the gravitational attraction between two bodies, such as the Earth and the Moon, is balanced by the equal and opposite force exerted by the Moon on the Earth.\n\nThese laws, along with the law of universal gravitation",
+      "is_correct": true,
+      "score": 0.8,
+      "reason": "Good match with expected content",
+      "expected_keywords": [
+        "law",
+        "motion",
+        "body",
+        "force",
+        "action",
+        "reaction"
+      ]
+    },
+    {
+      "domain": "Newton's Principia",
+      "question": "A group employer wishes to add a new employee, their spouse, and sibling as insured persons mid-policy. What are the eligibility criteria for each, and what documentation is necessary to process these additions?",
+      "answer": "Based on the provided document content, I will answer the question about the eligibility criteria for adding a new employee, their spouse, and sibling as insured persons mid-policy.\n\nThe document does not explicitly mention the eligibility criteria for adding a new employee, their spouse, and sibling as insured persons mid-policy. However, it does provide information on the principles of natural philosophy, the behavior of fluids, and the properties of solids.\n\nTo process these additions, the group employer would need to provide documentation that meets the requirements of the insurance policy. This documentation would likely include:\n\n1. Proof of employment: The group employer would need to provide proof of employment for the new employee, including their name, date of birth, and employment details.\n2. Proof of relationship: The group employer would need to provide proof of the relationship between the new employee and their spouse or sibling, such as a marriage certificate or birth certificate.\n3. Policy details: The group employer would need to provide details about the existing policy, including the policy number, effective date, and coverage limits.\n4. Additional information: The group employer may need to provide additional information, such as the new employee's salary, job title, and any pre-existing medical conditions.\n\nIt is important to note that the eligibility criteria for adding a new employee, their spouse, and sibling as insured persons mid-policy may vary depending on the specific insurance policy and the insurance provider. The group employer should consult with the insurance provider to determine the specific requirements and documentation needed to process these additions.",
+      "is_correct": false,
+      "score": 0.0,
+      "reason": "Low match with expected content",
+      "expected_keywords": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "f15345ba5ce7155ebb1fc8f231da2654",
+  "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+  "questions": [
+    "If my car is stolen, what case will it be in law?",
+    "If I am arrested without a warrant, is that legal?",
+    "If someone denies me a job because of my caste, is that allowed?",
+    "If the government takes my land for a project, can I stop it?",
+    "If my child is forced to work in a factory, is that legal?",
+    "If I am stopped from speaking at a protest, is that against my rights?",
+    "If a religious place stops me from entering because I'm a woman, is that constitutional?",
+    "If I change my religion, can the government stop me?",
+    "If the police torture someone in custody, what right is being violated?",
+    "If I'm denied admission to a public university because I'm from a backward community, can I do something?"
+  ],
+  "answers": [
+    "This would be treated as theft under criminal law (Indian Penal Code), not constitutional law. You should file a police report (FIR) for investigation and recovery.",
+    "Arrest without warrant is legal for cognizable offences, but Article 22 guarantees that arrested persons must be informed of grounds and produced before magistrate within 24 hours.",
+    "Article 15 prohibits discrimination based on caste, and Article 16 ensures equal opportunity in public employment. Caste-based job denial is unconstitutional.",
+    "Government can acquire land for public use under eminent domain (Article 300A), but must follow legal procedures and provide compensation. You can challenge the process in court.",
+    "Article 24 explicitly prohibits employment of children below 14 years in factories, mines, or hazardous employment. Child labor is illegal.",
+    "Article 19(1)(a) and 19(1)(b) guarantee freedom of speech and peaceful assembly. Stopping you without valid legal reason violates these fundamental rights.",
+    "Article 15 prohibits discrimination on grounds of sex. Denying women entry to religious places is unconstitutional, as upheld by Supreme Court judgments.",
+    "Article 25 guarantees freedom of conscience and right to freely profess, practice, and propagate religion. Government cannot stop religious conversion.",
+    "Police torture violates Article 21 (right to life and personal liberty), including freedom from cruel, inhuman, or degrading treatment. Custodial torture is unconstitutional.",
+    "Article 15(4) allows special provisions for backward classes, but Article 29(2) prohibits discrimination in state-funded institutions. You can challenge discriminatory admission practices."
+  ],
+  "processing_status": "completed"
+}
